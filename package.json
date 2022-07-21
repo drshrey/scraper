@@ -12,7 +12,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts"
+    "run-tutorial": "ts-node tutorial/index.ts",
+    "run-alt": "ts-node alt/index.ts"
   },
   "compilerOptions": {
     "esModuleInterop": true
